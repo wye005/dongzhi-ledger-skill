@@ -1,0 +1,12 @@
+# 生成物 / 临时文件
+__pycache__/
+*.pyc
+*.pyo
+scripts/out/
+scripts/nc_api/.build/
+scripts/nc_api/*.class
+yonbip/**/*.class
+*.building
+*.tmp
+*.class
+scripts/nc_api/nc.local.ps1

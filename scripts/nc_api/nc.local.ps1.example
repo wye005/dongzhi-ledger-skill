@@ -1,0 +1,5 @@
+# 复制为 nc.local.ps1 并填入真实值；该文件已被 gitignore，不会入库
+$NcUser   = '<NC 账号>'
+$NcPwd    = '<NC 口令>'
+$NcUrl    = 'http://<NC 服务地址>:8025/ServiceDispatcherServlet'
+$NcSecret = '<X-Internal-Secret>'
